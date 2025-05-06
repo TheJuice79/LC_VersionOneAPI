@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4EBC0788-DDBD-46DE-9E9E-BDD3A793EDDE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matthewschoofs/Projects/LC_VersionOneAPI/LC_VersionOneAPI/Program.cs" relfile="LC_VersionOneAPI/Program.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LC_VersionOneAPI/VersionOne.cs">
+    <Files>
+      <File FileName="LC_VersionOneAPI/Program.cs" />
+      <File FileName="LC_VersionOneAPI/DataTypeClasses/Category.cs" />
+      <File FileName="LC_VersionOneAPI/JsonClasses/RootObject.cs" />
+      <File FileName="LC_VersionOneAPI/Enums/EAssetState.cs" />
+      <File FileName="LC_VersionOneAPI/DataTypeClasses/StoryTest.cs" />
+      <File FileName="LC_VersionOneAPI/JsonClasses/AssetState.cs" />
+      <File FileName="LC_VersionOneAPI/VersionOne.cs" Line="43" Column="188" />
+      <File FileName="LC_VersionOneAPI/DataTypeClasses/Member.cs" />
+      <File FileName="LC_VersionOneAPI/DataTypeClasses/Story.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LC_VersionOne" expanded="True">
+            <Node name="LC_VersionOne" expanded="True">
+              <Node name="DataTypeClasses" expanded="True" />
+              <Node name="JsonClasses" expanded="True" />
+              <Node name="VersionOne.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LC__VersionOne PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
